@@ -1,4 +1,4 @@
-$\color{#FF0000}{🛍️ Online Store}$
+<h1 align="center" style="color : red">🛍️ Online Store</h1>
 
 <div align="center">
     <img src="./cart.svg"/>
