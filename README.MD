@@ -1,10 +1,10 @@
-<h1 align="center" style="color:#FFFFFF">🛍️ Online Store </h1>
+<h1 align="center" color='#FFFFFF'>🛍️ Online Store </h1>
 
 <div align="center">
     <img src="./cart.svg"/>
 </div>
 
-# 📚 <span style="color:#03cea4">Tools</span>
+# 📚 <span color='#03cea4'>Tools</span>
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,html,css,expressjs,vscode,mongodb,postman)](https://skillicons.dev)
@@ -37,7 +37,7 @@
 
 </ul>
 
-# <span style="color:#03cea4">Installation</span>
+# <span color='#03cea4'>Installation</span>
 
 ```
 $ git clone https://github.com/Islam-Turky/OnlineStore.git
