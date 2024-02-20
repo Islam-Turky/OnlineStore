@@ -1,4 +1,4 @@
-$\color{#FF0000}{<div align="center" style="color: red">🛍️ Online Store</div>}$
+$\color{#FF0000}{🛍️ Online Store}$
 
 <div align="center">
     <img src="./cart.svg"/>
