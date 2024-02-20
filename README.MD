@@ -1,4 +1,4 @@
-- ![#f03c15](<h1 align="center">🛍️ Online Store </h1>)
+<h1 align="center">🛍️ ![#f03c15](Online Store) </h1>
 
 <div align="center">
     <img src="./cart.svg"/>
