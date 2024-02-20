@@ -1,4 +1,4 @@
-<h1 style="text-align:center; color:#FFFFFF">🛍️ Online Store </h1>
+<h1 style="text-align:center; color:#FFFFFF;">🛍️ Online Store </h1>
 
 <div style="display:flex; justify-content:center; align-items:center">
     <img src="./cart.svg"/>
