@@ -1,4 +1,4 @@
-<h1 align="center" color="#FFFFFF">🛍️ Online Store </h1>
+<h1 align="center" style="color:#FFFFFF">🛍️ Online Store </h1>
 
 <div align="center">
     <img src="./cart.svg"/>
@@ -11,7 +11,7 @@
 
 </div>
 
-## <div align="center">😎 client-side</div>
+## <div align="center">** 😎 client-side **</div>
 <ul style="display:flex; flex-direction:column; justify-content:center; align-items:center" align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
@@ -24,7 +24,7 @@
 
 </ul>
 
-## <div align="center">💻 server-side</div>
+## <div align="center">** 💻 server-side **</div>
 <ul style="display:flex; flex-direction:column; justify-content:center; align-items:center" align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
