@@ -1,9 +1,10 @@
+<style>
+    h1{
+        color: red;
+    }
+</style>
 
-
-
-<h1 align="center" style="color: red">🛍️ Online Store</h1>
-
-
+<h1 align="center">🛍️ Online Store</h1>
 
 <div align="center">
     <img src="./cart.svg"/>
