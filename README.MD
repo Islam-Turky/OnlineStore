@@ -1,7 +1,7 @@
 <style>
-    h1{
-        color: red;
-    }
+  h1 {
+    color: red;
+  }
 </style>
 
 <h1 align="center">🛍️ Online Store</h1>
