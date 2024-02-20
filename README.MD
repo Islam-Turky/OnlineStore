@@ -12,7 +12,7 @@
 </div>
 
 ## <div align="center">😎 client-side</div>
-<ul style="display:flex; flex-direction:column; justify-content:center; align-items:center">
+<ul style="display:flex; flex-direction:column; justify-content:center; align-items:center" align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
