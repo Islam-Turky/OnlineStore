@@ -1,13 +1,4 @@
-<style>
-  H1 {
-    color: red;
-  }
-</style>
-
-
-
-
-<h1 align="center">🛍️ Online Store</h1>
+# <div align="center" style="color: red">🛍️ Online Store</div>
 
 <div align="center">
     <img src="./cart.svg"/>
