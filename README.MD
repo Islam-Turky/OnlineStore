@@ -5,7 +5,7 @@
 </div>
 
 # 📚 <span style="color:#03cea4">Tools</span>
-<div style="text-align:center">
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,html,css,expressjs,vscode,mongodb,postman)](https://skillicons.dev)
 
