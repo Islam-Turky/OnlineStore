@@ -1,1 +1,1 @@
-require('./V1/Config/DataBase');
+require('./V1/V1Server');
