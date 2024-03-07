@@ -1,26 +1,15 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "server side for online store",
   "main": "server.js",
   "scripts": {
-    "start:dev": "nodemon server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "author": "islam-turky",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^5.1.1",
-    "body-parser": "^1.20.2",
-    "dotenv": "^16.4.4",
-    "express": "^4.18.2",
-    "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.1.3",
-    "morgan": "^1.10.0",
-    "multer": "^1.4.5-lts.1",
-    "multer-gridfs-storage": "^5.0.2"
-  },
-  "devDependencies": {
-    "nodemon": "^3.0.3"
+    "express": "^4.18.3",
+    "express-session": "^1.18.0"
   }
 }
